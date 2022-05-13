@@ -8,9 +8,9 @@ git clone https://github.com/HabibMbow94/NLP_LAB_2.git
 
 # COLAB LINK
 
-```
-[NLP_LAB2](https://colab.research.google.com/drive/1JkEcAVqfXz8Am09UIZetzwFSF-o00-xB#scrollTo=6UpvOsb5_0ap&uniqifier=1)
-```
+
+[NLP_LAB2.](https://colab.research.google.com/drive/1JkEcAVqfXz8Am09UIZetzwFSF-o00-xB#scrollTo=6UpvOsb5_0ap&uniqifier=1)
+
 
 # STRUCTURES OF THE LAB
 
